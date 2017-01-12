@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ki
 ksflkdsn
 slknfs
@@ -11,9 +12,18 @@ fnsdlf
 sfnsjdkf
 fnsjklfn
 knfls
+=======
+snflsk
+nfls
+HDS
+>>>>>>> dbb64e466de1abdd270f6ade83d6a661a46dd18a
 fnlsnf
 dsknfls
 nslknfs
 nlsknf
 sfknsdl
-
+dfsbkjf
+skjbfs
+fbkjsdf
+sbfjksd
+fsdbkjf
